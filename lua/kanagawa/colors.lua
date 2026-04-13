@@ -2,7 +2,7 @@
 local palette = {
 
     -- Bg Shades
-    sumiInk0 = "#1F1F28",
+    sumiInk0 = "#16161D",
     sumiInk1 = "#181820",
     sumiInk2 = "#1a1a22",
     sumiInk3 = "#1F1F28",
